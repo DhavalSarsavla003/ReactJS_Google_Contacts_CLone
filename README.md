@@ -53,4 +53,6 @@ React Router handles page navigation
 Components like ContactForm, Sidebar, TopBar make UI modular
 CRUD operations update the state dynamically
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/455585e8-5371-4813-8f04-6cb6a495d71c" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-04-01 184424" src="https://github.com/user-attachments/assets/6e13bc67-22d6-4d31-8741-ca9c78a06eca" />
